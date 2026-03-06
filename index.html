@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title> Shade Finder</title>
+        <link rel="manifest" href="manifest.json">
+        <meta name="theme-color" content="#0984e3">
+        <link rel="stylesheet" href="style.css">
+        
+    </head>
+
+    <body>
+        <div class="container">
+            <h1>Shade Finder</h1>
+
+            <div class="controls">
+                <select id="type">
+                    <option value="jayam">Jayam</option>
+                    <option value="precot">Precot</option>
+                </select>
+
+                <input id="number" placeholder="Enter Shade" inputmode="numeric" autofocus>
+            </div>
+
+            <div class="result">
+                <div class="exact">
+                    <h2>Exact Match</h2>
+                    <div id="exactResult">
+                        Loading shades...
+                    </div>
+                </div>
+
+                <div class="similar">
+                    <h2>Similar Serials</h2>
+
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>Precot</th>
+                                <th>Jayam</th>
+                            </tr>
+                        </thead>
+
+                        <tbody id="similarTable">
+                        </tbody>
+                    </table>
+
+                </div>
+            </div>
+
+        </div>
+
+        <script src="app.js"></script>
+    </body>
+</html>

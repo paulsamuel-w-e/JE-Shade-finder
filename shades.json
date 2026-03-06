@@ -1,0 +1,2810 @@
+[
+  {
+    "precot": "WHITE",
+    "jayam": "001"
+  },
+  {
+    "precot": "NW",
+    "jayam": "003"
+  },
+  {
+    "precot": "021",
+    "jayam": "005"
+  },
+  {
+    "precot": "008",
+    "jayam": "007"
+  },
+  {
+    "precot": "022",
+    "jayam": "009"
+  },
+  {
+    "precot": "002",
+    "jayam": "011"
+  },
+  {
+    "precot": "003",
+    "jayam": "013"
+  },
+  {
+    "precot": null,
+    "jayam": "015"
+  },
+  {
+    "precot": "004",
+    "jayam": "017"
+  },
+  {
+    "precot": "005",
+    "jayam": "019"
+  },
+  {
+    "precot": "007",
+    "jayam": "021"
+  },
+  {
+    "precot": "041",
+    "jayam": "023"
+  },
+  {
+    "precot": "009",
+    "jayam": "025"
+  },
+  {
+    "precot": "006",
+    "jayam": "027"
+  },
+  {
+    "precot": "010",
+    "jayam": "029"
+  },
+  {
+    "precot": "043",
+    "jayam": "031"
+  },
+  {
+    "precot": "719",
+    "jayam": "033"
+  },
+  {
+    "precot": "045",
+    "jayam": "035"
+  },
+  {
+    "precot": "046",
+    "jayam": "037"
+  },
+  {
+    "precot": "047",
+    "jayam": "039"
+  },
+  {
+    "precot": "011",
+    "jayam": "041"
+  },
+  {
+    "precot": "270",
+    "jayam": "043"
+  },
+  {
+    "precot": "200",
+    "jayam": "045"
+  },
+  {
+    "precot": "223",
+    "jayam": "047"
+  },
+  {
+    "precot": "222",
+    "jayam": "049"
+  },
+  {
+    "precot": "053",
+    "jayam": "051"
+  },
+  {
+    "precot": "054",
+    "jayam": "053"
+  },
+  {
+    "precot": "049",
+    "jayam": "055"
+  },
+  {
+    "precot": "048",
+    "jayam": "057"
+  },
+  {
+    "precot": "051",
+    "jayam": "059"
+  },
+  {
+    "precot": "050",
+    "jayam": "061"
+  },
+  {
+    "precot": "044",
+    "jayam": "063"
+  },
+  {
+    "precot": "055",
+    "jayam": "065"
+  },
+  {
+    "precot": "056",
+    "jayam": "067"
+  },
+  {
+    "precot": "221",
+    "jayam": "069"
+  },
+  {
+    "precot": null,
+    "jayam": "071"
+  },
+  {
+    "precot": null,
+    "jayam": "073"
+  },
+  {
+    "precot": "057",
+    "jayam": "075"
+  },
+  {
+    "precot": "058",
+    "jayam": "077"
+  },
+  {
+    "precot": "072",
+    "jayam": "079"
+  },
+  {
+    "precot": "014",
+    "jayam": "081"
+  },
+  {
+    "precot": "013",
+    "jayam": "083"
+  },
+  {
+    "precot": "135",
+    "jayam": "085"
+  },
+  {
+    "precot": null,
+    "jayam": "087"
+  },
+  {
+    "precot": "137",
+    "jayam": "089"
+  },
+  {
+    "precot": "146",
+    "jayam": "091"
+  },
+  {
+    "precot": "087",
+    "jayam": "093"
+  },
+  {
+    "precot": "085",
+    "jayam": "095"
+  },
+  {
+    "precot": null,
+    "jayam": "097"
+  },
+  {
+    "precot": "086",
+    "jayam": "099"
+  },
+  {
+    "precot": "095",
+    "jayam": "101"
+  },
+  {
+    "precot": "093",
+    "jayam": "103"
+  },
+  {
+    "precot": "096",
+    "jayam": "105"
+  },
+  {
+    "precot": "094",
+    "jayam": "107"
+  },
+  {
+    "precot": "098",
+    "jayam": "109"
+  },
+  {
+    "precot": "097",
+    "jayam": "111"
+  },
+  {
+    "precot": "241",
+    "jayam": "113"
+  },
+  {
+    "precot": "249",
+    "jayam": "115"
+  },
+  {
+    "precot": "243",
+    "jayam": "117"
+  },
+  {
+    "precot": "283",
+    "jayam": "119"
+  },
+  {
+    "precot": "025",
+    "jayam": "121"
+  },
+  {
+    "precot": "040",
+    "jayam": "123"
+  },
+  {
+    "precot": "027",
+    "jayam": "125"
+  },
+  {
+    "precot": "030",
+    "jayam": "127"
+  },
+  {
+    "precot": "217",
+    "jayam": "129"
+  },
+  {
+    "precot": null,
+    "jayam": "131"
+  },
+  {
+    "precot": "394",
+    "jayam": "133"
+  },
+  {
+    "precot": "395",
+    "jayam": "135"
+  },
+  {
+    "precot": "393",
+    "jayam": "137"
+  },
+  {
+    "precot": null,
+    "jayam": "139"
+  },
+  {
+    "precot": "304",
+    "jayam": "141"
+  },
+  {
+    "precot": "400",
+    "jayam": "143"
+  },
+  {
+    "precot": "213",
+    "jayam": "145"
+  },
+  {
+    "precot": "211",
+    "jayam": "147"
+  },
+  {
+    "precot": "216",
+    "jayam": "149"
+  },
+  {
+    "precot": "215",
+    "jayam": "151"
+  },
+  {
+    "precot": "273",
+    "jayam": "153"
+  },
+  {
+    "precot": "218",
+    "jayam": "155"
+  },
+  {
+    "precot": "228",
+    "jayam": "157"
+  },
+  {
+    "precot": "229",
+    "jayam": "159"
+  },
+  {
+    "precot": null,
+    "jayam": "161"
+  },
+  {
+    "precot": null,
+    "jayam": "163"
+  },
+  {
+    "precot": "034",
+    "jayam": "165"
+  },
+  {
+    "precot": "020",
+    "jayam": "167"
+  },
+  {
+    "precot": "016",
+    "jayam": "169"
+  },
+  {
+    "precot": "017",
+    "jayam": "171"
+  },
+  {
+    "precot": "018",
+    "jayam": "173"
+  },
+  {
+    "precot": "015",
+    "jayam": "175"
+  },
+  {
+    "precot": "012",
+    "jayam": "177"
+  },
+  {
+    "precot": "271",
+    "jayam": "179"
+  },
+  {
+    "precot": null,
+    "jayam": "181"
+  },
+  {
+    "precot": "212",
+    "jayam": "183"
+  },
+  {
+    "precot": "272",
+    "jayam": "185"
+  },
+  {
+    "precot": "219",
+    "jayam": "187"
+  },
+  {
+    "precot": "202",
+    "jayam": "189"
+  },
+  {
+    "precot": null,
+    "jayam": "191"
+  },
+  {
+    "precot": "233",
+    "jayam": "193"
+  },
+  {
+    "precot": null,
+    "jayam": "195"
+  },
+  {
+    "precot": "232",
+    "jayam": "197"
+  },
+  {
+    "precot": "282",
+    "jayam": "199"
+  },
+  {
+    "precot": "130",
+    "jayam": "201"
+  },
+  {
+    "precot": "133",
+    "jayam": "203"
+  },
+  {
+    "precot": "140",
+    "jayam": "205"
+  },
+  {
+    "precot": "340",
+    "jayam": "207"
+  },
+  {
+    "precot": "310",
+    "jayam": "209"
+  },
+  {
+    "precot": "450",
+    "jayam": "211"
+  },
+  {
+    "precot": null,
+    "jayam": "213"
+  },
+  {
+    "precot": "138",
+    "jayam": "215"
+  },
+  {
+    "precot": "144",
+    "jayam": "217"
+  },
+  {
+    "precot": "142",
+    "jayam": "219"
+  },
+  {
+    "precot": null,
+    "jayam": "221"
+  },
+  {
+    "precot": "162",
+    "jayam": "223"
+  },
+  {
+    "precot": "143",
+    "jayam": "225"
+  },
+  {
+    "precot": "145",
+    "jayam": "227"
+  },
+  {
+    "precot": "152",
+    "jayam": "229"
+  },
+  {
+    "precot": null,
+    "jayam": "231"
+  },
+  {
+    "precot": "166",
+    "jayam": "233"
+  },
+  {
+    "precot": "164",
+    "jayam": "235"
+  },
+  {
+    "precot": null,
+    "jayam": "237"
+  },
+  {
+    "precot": null,
+    "jayam": "239"
+  },
+  {
+    "precot": "131",
+    "jayam": "241"
+  },
+  {
+    "precot": "132",
+    "jayam": "243"
+  },
+  {
+    "precot": "136",
+    "jayam": "245"
+  },
+  {
+    "precot": "341",
+    "jayam": "247"
+  },
+  {
+    "precot": null,
+    "jayam": "249"
+  },
+  {
+    "precot": "147",
+    "jayam": "251"
+  },
+  {
+    "precot": null,
+    "jayam": "253"
+  },
+  {
+    "precot": null,
+    "jayam": "255"
+  },
+  {
+    "precot": "107",
+    "jayam": "257"
+  },
+  {
+    "precot": "099",
+    "jayam": "259"
+  },
+  {
+    "precot": "148",
+    "jayam": "261"
+  },
+  {
+    "precot": "155",
+    "jayam": "263"
+  },
+  {
+    "precot": "104",
+    "jayam": "265"
+  },
+  {
+    "precot": "100",
+    "jayam": "267"
+  },
+  {
+    "precot": "101",
+    "jayam": "269"
+  },
+  {
+    "precot": "172",
+    "jayam": "271"
+  },
+  {
+    "precot": "103",
+    "jayam": "273"
+  },
+  {
+    "precot": "258",
+    "jayam": "275"
+  },
+  {
+    "precot": "102",
+    "jayam": "277"
+  },
+  {
+    "precot": "105",
+    "jayam": "279"
+  },
+  {
+    "precot": "134",
+    "jayam": "281"
+  },
+  {
+    "precot": "139",
+    "jayam": "283"
+  },
+  {
+    "precot": "160",
+    "jayam": "285"
+  },
+  {
+    "precot": "141",
+    "jayam": "287"
+  },
+  {
+    "precot": "244",
+    "jayam": "289"
+  },
+  {
+    "precot": "248",
+    "jayam": "291"
+  },
+  {
+    "precot": null,
+    "jayam": "293"
+  },
+  {
+    "precot": null,
+    "jayam": "295"
+  },
+  {
+    "precot": null,
+    "jayam": "297"
+  },
+  {
+    "precot": null,
+    "jayam": "299"
+  },
+  {
+    "precot": "151",
+    "jayam": null
+  },
+  {
+    "precot": "158",
+    "jayam": null
+  },
+  {
+    "precot": "174",
+    "jayam": "301"
+  },
+  {
+    "precot": "109",
+    "jayam": "303"
+  },
+  {
+    "precot": null,
+    "jayam": "305"
+  },
+  {
+    "precot": "108",
+    "jayam": "307"
+  },
+  {
+    "precot": null,
+    "jayam": "309"
+  },
+  {
+    "precot": "176",
+    "jayam": "311"
+  },
+  {
+    "precot": "184",
+    "jayam": "313"
+  },
+  {
+    "precot": "186",
+    "jayam": "315"
+  },
+  {
+    "precot": "192",
+    "jayam": "317"
+  },
+  {
+    "precot": "190",
+    "jayam": "319"
+  },
+  {
+    "precot": null,
+    "jayam": "321"
+  },
+  {
+    "precot": "274",
+    "jayam": "323"
+  },
+  {
+    "precot": "280",
+    "jayam": "325"
+  },
+  {
+    "precot": "277",
+    "jayam": "327"
+  },
+  {
+    "precot": null,
+    "jayam": "329"
+  },
+  {
+    "precot": null,
+    "jayam": "331"
+  },
+  {
+    "precot": null,
+    "jayam": "333"
+  },
+  {
+    "precot": "250",
+    "jayam": "335"
+  },
+  {
+    "precot": "246",
+    "jayam": "337"
+  },
+  {
+    "precot": "284",
+    "jayam": "339"
+  },
+  {
+    "precot": "188",
+    "jayam": "341"
+  },
+  {
+    "precot": "456",
+    "jayam": "343"
+  },
+  {
+    "precot": "106",
+    "jayam": "345"
+  },
+  {
+    "precot": "237",
+    "jayam": "347"
+  },
+  {
+    "precot": "238",
+    "jayam": "349"
+  },
+  {
+    "precot": "285",
+    "jayam": "351"
+  },
+  {
+    "precot": "195",
+    "jayam": "353"
+  },
+  {
+    "precot": "196",
+    "jayam": "355"
+  },
+  {
+    "precot": null,
+    "jayam": "357"
+  },
+  {
+    "precot": "198",
+    "jayam": "359"
+  },
+  {
+    "precot": "203",
+    "jayam": "361"
+  },
+  {
+    "precot": "206",
+    "jayam": "363"
+  },
+  {
+    "precot": "201",
+    "jayam": "365"
+  },
+  {
+    "precot": null,
+    "jayam": "367"
+  },
+  {
+    "precot": null,
+    "jayam": "369"
+  },
+  {
+    "precot": null,
+    "jayam": "371"
+  },
+  {
+    "precot": "231",
+    "jayam": "373"
+  },
+  {
+    "precot": "381",
+    "jayam": "375"
+  },
+  {
+    "precot": "265",
+    "jayam": "377"
+  },
+  {
+    "precot": "266",
+    "jayam": "379"
+  },
+  {
+    "precot": "290",
+    "jayam": "381"
+  },
+  {
+    "precot": "253",
+    "jayam": "383"
+  },
+  {
+    "precot": "292",
+    "jayam": "385"
+  },
+  {
+    "precot": "294",
+    "jayam": "387"
+  },
+  {
+    "precot": null,
+    "jayam": "389"
+  },
+  {
+    "precot": "262",
+    "jayam": "391"
+  },
+  {
+    "precot": null,
+    "jayam": "393"
+  },
+  {
+    "precot": null,
+    "jayam": "395"
+  },
+  {
+    "precot": "294",
+    "jayam": "397"
+  },
+  {
+    "precot": "296",
+    "jayam": "399"
+  },
+  {
+    "precot": "701",
+    "jayam": "401"
+  },
+  {
+    "precot": "320",
+    "jayam": "403"
+  },
+  {
+    "precot": "705",
+    "jayam": "405"
+  },
+  {
+    "precot": "711",
+    "jayam": "407"
+  },
+  {
+    "precot": "725",
+    "jayam": "409"
+  },
+  {
+    "precot": "723",
+    "jayam": "411"
+  },
+  {
+    "precot": null,
+    "jayam": "413"
+  },
+  {
+    "precot": "805",
+    "jayam": "415"
+  },
+  {
+    "precot": "380",
+    "jayam": "417"
+  },
+  {
+    "precot": "777",
+    "jayam": "419"
+  },
+  {
+    "precot": "775",
+    "jayam": "421"
+  },
+  {
+    "precot": "739",
+    "jayam": "423"
+  },
+  {
+    "precot": null,
+    "jayam": "425"
+  },
+  {
+    "precot": null,
+    "jayam": "427"
+  },
+  {
+    "precot": "781",
+    "jayam": "429"
+  },
+  {
+    "precot": "783",
+    "jayam": "431"
+  },
+  {
+    "precot": "785",
+    "jayam": "433"
+  },
+  {
+    "precot": "789",
+    "jayam": "435"
+  },
+  {
+    "precot": "791",
+    "jayam": "437"
+  },
+  {
+    "precot": "793",
+    "jayam": "439"
+  },
+  {
+    "precot": "703",
+    "jayam": "441"
+  },
+  {
+    "precot": "707",
+    "jayam": "443"
+  },
+  {
+    "precot": "709",
+    "jayam": "445"
+  },
+  {
+    "precot": "717",
+    "jayam": "447"
+  },
+  {
+    "precot": "771",
+    "jayam": "449"
+  },
+  {
+    "precot": null,
+    "jayam": "451"
+  },
+  {
+    "precot": "773",
+    "jayam": "453"
+  },
+  {
+    "precot": null,
+    "jayam": "455"
+  },
+  {
+    "precot": "466",
+    "jayam": "457"
+  },
+  {
+    "precot": "447",
+    "jayam": "459"
+  },
+  {
+    "precot": "769",
+    "jayam": "461"
+  },
+  {
+    "precot": "745",
+    "jayam": "463"
+  },
+  {
+    "precot": "743",
+    "jayam": "465"
+  },
+  {
+    "precot": "749",
+    "jayam": "467"
+  },
+  {
+    "precot": null,
+    "jayam": "469"
+  },
+  {
+    "precot": "525",
+    "jayam": "471"
+  },
+  {
+    "precot": "575",
+    "jayam": "473"
+  },
+  {
+    "precot": "527",
+    "jayam": "475"
+  },
+  {
+    "precot": "580",
+    "jayam": "477"
+  },
+  {
+    "precot": "528",
+    "jayam": "479"
+  },
+  {
+    "precot": "721",
+    "jayam": "481"
+  },
+  {
+    "precot": "727",
+    "jayam": "483"
+  },
+  {
+    "precot": "729",
+    "jayam": "485"
+  },
+  {
+    "precot": "731",
+    "jayam": "487"
+  },
+  {
+    "precot": null,
+    "jayam": "489"
+  },
+  {
+    "precot": "735",
+    "jayam": "491"
+  },
+  {
+    "precot": "732",
+    "jayam": "493"
+  },
+  {
+    "precot": "733",
+    "jayam": "495"
+  },
+  {
+    "precot": "735",
+    "jayam": "497"
+  },
+  {
+    "precot": "737",
+    "jayam": "499"
+  },
+  {
+    "precot": null,
+    "jayam": "501"
+  },
+  {
+    "precot": null,
+    "jayam": "503"
+  },
+  {
+    "precot": "810",
+    "jayam": "505"
+  },
+  {
+    "precot": "378",
+    "jayam": "507"
+  },
+  {
+    "precot": "384",
+    "jayam": "509"
+  },
+  {
+    "precot": "386",
+    "jayam": "511"
+  },
+  {
+    "precot": "823",
+    "jayam": "513"
+  },
+  {
+    "precot": "821",
+    "jayam": "515"
+  },
+  {
+    "precot": "825",
+    "jayam": "517"
+  },
+  {
+    "precot": null,
+    "jayam": "519"
+  },
+  {
+    "precot": null,
+    "jayam": "521"
+  },
+  {
+    "precot": "037",
+    "jayam": "523"
+  },
+  {
+    "precot": "803",
+    "jayam": "525"
+  },
+  {
+    "precot": "715",
+    "jayam": "527"
+  },
+  {
+    "precot": "713",
+    "jayam": "529"
+  },
+  {
+    "precot": null,
+    "jayam": "531"
+  },
+  {
+    "precot": "440",
+    "jayam": "533"
+  },
+  {
+    "precot": "428",
+    "jayam": "535"
+  },
+  {
+    "precot": null,
+    "jayam": "537"
+  },
+  {
+    "precot": "227",
+    "jayam": "539"
+  },
+  {
+    "precot": "822",
+    "jayam": "541"
+  },
+  {
+    "precot": null,
+    "jayam": "543"
+  },
+  {
+    "precot": null,
+    "jayam": "545"
+  },
+  {
+    "precot": null,
+    "jayam": "547"
+  },
+  {
+    "precot": null,
+    "jayam": "549"
+  },
+  {
+    "precot": null,
+    "jayam": "551"
+  },
+  {
+    "precot": "385",
+    "jayam": "553"
+  },
+  {
+    "precot": null,
+    "jayam": "555"
+  },
+  {
+    "precot": "389",
+    "jayam": "557"
+  },
+  {
+    "precot": "390",
+    "jayam": "559"
+  },
+  {
+    "precot": "807",
+    "jayam": "561"
+  },
+  {
+    "precot": "208",
+    "jayam": "563"
+  },
+  {
+    "precot": "809",
+    "jayam": "565"
+  },
+  {
+    "precot": "379",
+    "jayam": "567"
+  },
+  {
+    "precot": "226",
+    "jayam": "569"
+  },
+  {
+    "precot": null,
+    "jayam": "571"
+  },
+  {
+    "precot": null,
+    "jayam": "573"
+  },
+  {
+    "precot": "424",
+    "jayam": "575"
+  },
+  {
+    "precot": null,
+    "jayam": "577"
+  },
+  {
+    "precot": null,
+    "jayam": "579"
+  },
+  {
+    "precot": null,
+    "jayam": "581"
+  },
+  {
+    "precot": "377",
+    "jayam": "583"
+  },
+  {
+    "precot": "827",
+    "jayam": "585"
+  },
+  {
+    "precot": "829",
+    "jayam": "587"
+  },
+  {
+    "precot": "387",
+    "jayam": "589"
+  },
+  {
+    "precot": "584",
+    "jayam": "591"
+  },
+  {
+    "precot": "415",
+    "jayam": "593"
+  },
+  {
+    "precot": "477",
+    "jayam": "595"
+  },
+  {
+    "precot": "392",
+    "jayam": "597"
+  },
+  {
+    "precot": null,
+    "jayam": "599"
+  },
+  {
+    "precot": "486",
+    "jayam": "601"
+  },
+  {
+    "precot": "498",
+    "jayam": "603"
+  },
+  {
+    "precot": "499",
+    "jayam": "605"
+  },
+  {
+    "precot": "500",
+    "jayam": "607"
+  },
+  {
+    "precot": "503",
+    "jayam": "609"
+  },
+  {
+    "precot": "504",
+    "jayam": "611"
+  },
+  {
+    "precot": "510",
+    "jayam": "613"
+  },
+  {
+    "precot": "505",
+    "jayam": "615"
+  },
+  {
+    "precot": "511",
+    "jayam": "617"
+  },
+  {
+    "precot": "442",
+    "jayam": "619"
+  },
+  {
+    "precot": "519",
+    "jayam": "621"
+  },
+  {
+    "precot": "529",
+    "jayam": "623"
+  },
+  {
+    "precot": "530",
+    "jayam": "625"
+  },
+  {
+    "precot": "518",
+    "jayam": "627"
+  },
+  {
+    "precot": "531",
+    "jayam": "629"
+  },
+  {
+    "precot": "532",
+    "jayam": "631"
+  },
+  {
+    "precot": "516",
+    "jayam": "633"
+  },
+  {
+    "precot": "562",
+    "jayam": "635"
+  },
+  {
+    "precot": "536",
+    "jayam": "637"
+  },
+  {
+    "precot": "412",
+    "jayam": "639"
+  },
+  {
+    "precot": "405",
+    "jayam": "641"
+  },
+  {
+    "precot": "506",
+    "jayam": "643"
+  },
+  {
+    "precot": "763",
+    "jayam": "645"
+  },
+  {
+    "precot": "407",
+    "jayam": "647"
+  },
+  {
+    "precot": "767",
+    "jayam": "649"
+  },
+  {
+    "precot": null,
+    "jayam": "651"
+  },
+  {
+    "precot": "464",
+    "jayam": "653"
+  },
+  {
+    "precot": "547",
+    "jayam": "655"
+  },
+  {
+    "precot": null,
+    "jayam": "657"
+  },
+  {
+    "precot": null,
+    "jayam": "659"
+  },
+  {
+    "precot": "765",
+    "jayam": "661"
+  },
+  {
+    "precot": "507",
+    "jayam": "663"
+  },
+  {
+    "precot": "515",
+    "jayam": "665"
+  },
+  {
+    "precot": "757",
+    "jayam": "667"
+  },
+  {
+    "precot": "514",
+    "jayam": "669"
+  },
+  {
+    "precot": "513",
+    "jayam": "671"
+  },
+  {
+    "precot": "753",
+    "jayam": "673"
+  },
+  {
+    "precot": "509",
+    "jayam": "675"
+  },
+  {
+    "precot": "526",
+    "jayam": "677"
+  },
+  {
+    "precot": "419",
+    "jayam": "679"
+  },
+  {
+    "precot": "490",
+    "jayam": "681"
+  },
+  {
+    "precot": "502",
+    "jayam": "683"
+  },
+  {
+    "precot": "491",
+    "jayam": "685"
+  },
+  {
+    "precot": "492",
+    "jayam": "687"
+  },
+  {
+    "precot": "493",
+    "jayam": "689"
+  },
+  {
+    "precot": "508",
+    "jayam": "691"
+  },
+  {
+    "precot": "553",
+    "jayam": "693"
+  },
+  {
+    "precot": "533",
+    "jayam": "695"
+  },
+  {
+    "precot": "512",
+    "jayam": "697"
+  },
+  {
+    "precot": "559",
+    "jayam": "699"
+  },
+  {
+    "precot": "556",
+    "jayam": "701"
+  },
+  {
+    "precot": "063",
+    "jayam": "703"
+  },
+  {
+    "precot": "520",
+    "jayam": "705"
+  },
+  {
+    "precot": "521",
+    "jayam": "707"
+  },
+  {
+    "precot": "534",
+    "jayam": "709"
+  },
+  {
+    "precot": "538",
+    "jayam": "711"
+  },
+  {
+    "precot": "535",
+    "jayam": "713"
+  },
+  {
+    "precot": "448",
+    "jayam": "715"
+  },
+  {
+    "precot": "537",
+    "jayam": "717"
+  },
+  {
+    "precot": "449",
+    "jayam": "719"
+  },
+  {
+    "precot": "421",
+    "jayam": "721"
+  },
+  {
+    "precot": "420",
+    "jayam": "723"
+  },
+  {
+    "precot": "414",
+    "jayam": "725"
+  },
+  {
+    "precot": "411",
+    "jayam": "727"
+  },
+  {
+    "precot": "410",
+    "jayam": "729"
+  },
+  {
+    "precot": "478",
+    "jayam": "731"
+  },
+  {
+    "precot": "586",
+    "jayam": "733"
+  },
+  {
+    "precot": "585",
+    "jayam": "735"
+  },
+  {
+    "precot": "539",
+    "jayam": "737"
+  },
+  {
+    "precot": "587",
+    "jayam": "739"
+  },
+  {
+    "precot": "583",
+    "jayam": "741"
+  },
+  {
+    "precot": "480",
+    "jayam": "743"
+  },
+  {
+    "precot": null,
+    "jayam": "745"
+  },
+  {
+    "precot": null,
+    "jayam": "747"
+  },
+  {
+    "precot": null,
+    "jayam": "749"
+  },
+  {
+    "precot": "595",
+    "jayam": "751"
+  },
+  {
+    "precot": null,
+    "jayam": "753"
+  },
+  {
+    "precot": null,
+    "jayam": "755"
+  },
+  {
+    "precot": "596",
+    "jayam": "757"
+  },
+  {
+    "precot": "590",
+    "jayam": "759"
+  },
+  {
+    "precot": "124",
+    "jayam": "761"
+  },
+  {
+    "precot": "501",
+    "jayam": "763"
+  },
+  {
+    "precot": "126",
+    "jayam": "765"
+  },
+  {
+    "precot": null,
+    "jayam": "767"
+  },
+  {
+    "precot": "067",
+    "jayam": "769"
+  },
+  {
+    "precot": "168",
+    "jayam": "771"
+  },
+  {
+    "precot": "110",
+    "jayam": "773"
+  },
+  {
+    "precot": "114",
+    "jayam": "775"
+  },
+  {
+    "precot": "128",
+    "jayam": "777"
+  },
+  {
+    "precot": "112",
+    "jayam": "779"
+  },
+  {
+    "precot": "524",
+    "jayam": "781"
+  },
+  {
+    "precot": "121",
+    "jayam": "783"
+  },
+  {
+    "precot": "120",
+    "jayam": "785"
+  },
+  {
+    "precot": "122",
+    "jayam": "787"
+  },
+  {
+    "precot": null,
+    "jayam": "789"
+  },
+  {
+    "precot": "444",
+    "jayam": "791"
+  },
+  {
+    "precot": "522",
+    "jayam": "793"
+  },
+  {
+    "precot": "523",
+    "jayam": "795"
+  },
+  {
+    "precot": "542",
+    "jayam": "797"
+  },
+  {
+    "precot": "544",
+    "jayam": "799"
+  },
+  {
+    "precot": null,
+    "jayam": "801"
+  },
+  {
+    "precot": "335",
+    "jayam": "803"
+  },
+  {
+    "precot": "286",
+    "jayam": "805"
+  },
+  {
+    "precot": null,
+    "jayam": "807"
+  },
+  {
+    "precot": "225",
+    "jayam": "809"
+  },
+  {
+    "precot": null,
+    "jayam": "811"
+  },
+  {
+    "precot": "224",
+    "jayam": "813"
+  },
+  {
+    "precot": "242",
+    "jayam": "815"
+  },
+  {
+    "precot": "281",
+    "jayam": "817"
+  },
+  {
+    "precot": "240",
+    "jayam": "819"
+  },
+  {
+    "precot": "236",
+    "jayam": "821"
+  },
+  {
+    "precot": "239",
+    "jayam": "823"
+  },
+  {
+    "precot": "204",
+    "jayam": "825"
+  },
+  {
+    "precot": "287",
+    "jayam": "827"
+  },
+  {
+    "precot": "383",
+    "jayam": "829"
+  },
+  {
+    "precot": null,
+    "jayam": "831"
+  },
+  {
+    "precot": null,
+    "jayam": "833"
+  },
+  {
+    "precot": "251",
+    "jayam": "835"
+  },
+  {
+    "precot": "289",
+    "jayam": "837"
+  },
+  {
+    "precot": null,
+    "jayam": "839"
+  },
+  {
+    "precot": "396",
+    "jayam": "841"
+  },
+  {
+    "precot": "207",
+    "jayam": "843"
+  },
+  {
+    "precot": null,
+    "jayam": "845"
+  },
+  {
+    "precot": "375",
+    "jayam": "847"
+  },
+  {
+    "precot": "427",
+    "jayam": "849"
+  },
+  {
+    "precot": null,
+    "jayam": "851"
+  },
+  {
+    "precot": null,
+    "jayam": "853"
+  },
+  {
+    "precot": null,
+    "jayam": "855"
+  },
+  {
+    "precot": "811",
+    "jayam": "857"
+  },
+  {
+    "precot": null,
+    "jayam": "859"
+  },
+  {
+    "precot": "815",
+    "jayam": "861"
+  },
+  {
+    "precot": "220",
+    "jayam": "863"
+  },
+  {
+    "precot": null,
+    "jayam": "865"
+  },
+  {
+    "precot": "813",
+    "jayam": "867"
+  },
+  {
+    "precot": "376",
+    "jayam": "869"
+  },
+  {
+    "precot": "234",
+    "jayam": "871"
+  },
+  {
+    "precot": "382",
+    "jayam": "873"
+  },
+  {
+    "precot": null,
+    "jayam": "875"
+  },
+  {
+    "precot": "230",
+    "jayam": "877"
+  },
+  {
+    "precot": "210",
+    "jayam": "879"
+  },
+  {
+    "precot": "484",
+    "jayam": "881"
+  },
+  {
+    "precot": "32",
+    "jayam": "883"
+  },
+  {
+    "precot": null,
+    "jayam": "885"
+  },
+  {
+    "precot": "214",
+    "jayam": "887"
+  },
+  {
+    "precot": "482",
+    "jayam": "889"
+  },
+  {
+    "precot": "437",
+    "jayam": "891"
+  },
+  {
+    "precot": "801",
+    "jayam": "893"
+  },
+  {
+    "precot": "19",
+    "jayam": "895"
+  },
+  {
+    "precot": null,
+    "jayam": "897"
+  },
+  {
+    "precot": "205",
+    "jayam": "899"
+  },
+  {
+    "precot": null,
+    "jayam": "901"
+  },
+  {
+    "precot": "303",
+    "jayam": "903"
+  },
+  {
+    "precot": "300",
+    "jayam": "905"
+  },
+  {
+    "precot": "819",
+    "jayam": "907"
+  },
+  {
+    "precot": "425",
+    "jayam": "909"
+  },
+  {
+    "precot": null,
+    "jayam": "911"
+  },
+  {
+    "precot": "267",
+    "jayam": "913"
+  },
+  {
+    "precot": "255",
+    "jayam": "915"
+  },
+  {
+    "precot": "388",
+    "jayam": "917"
+  },
+  {
+    "precot": "391",
+    "jayam": "919"
+  },
+  {
+    "precot": "487",
+    "jayam": "921"
+  },
+  {
+    "precot": "397",
+    "jayam": "923"
+  },
+  {
+    "precot": "403",
+    "jayam": "925"
+  },
+  {
+    "precot": "398",
+    "jayam": "927"
+  },
+  {
+    "precot": "415",
+    "jayam": "929"
+  },
+  {
+    "precot": "399",
+    "jayam": "931"
+  },
+  {
+    "precot": "401",
+    "jayam": "933"
+  },
+  {
+    "precot": "406",
+    "jayam": "935"
+  },
+  {
+    "precot": "402",
+    "jayam": "937"
+  },
+  {
+    "precot": "468",
+    "jayam": "939"
+  },
+  {
+    "precot": "409",
+    "jayam": "941"
+  },
+  {
+    "precot": null,
+    "jayam": "943"
+  },
+  {
+    "precot": "429",
+    "jayam": "945"
+  },
+  {
+    "precot": "422",
+    "jayam": "947"
+  },
+  {
+    "precot": null,
+    "jayam": "949"
+  },
+  {
+    "precot": "474",
+    "jayam": "951"
+  },
+  {
+    "precot": "435",
+    "jayam": "953"
+  },
+  {
+    "precot": null,
+    "jayam": "955"
+  },
+  {
+    "precot": "430",
+    "jayam": "957"
+  },
+  {
+    "precot": "431",
+    "jayam": "959"
+  },
+  {
+    "precot": "550",
+    "jayam": "961"
+  },
+  {
+    "precot": null,
+    "jayam": "963"
+  },
+  {
+    "precot": "408",
+    "jayam": "965"
+  },
+  {
+    "precot": "416",
+    "jayam": "967"
+  },
+  {
+    "precot": "470",
+    "jayam": "969"
+  },
+  {
+    "precot": "441",
+    "jayam": "971"
+  },
+  {
+    "precot": "472",
+    "jayam": "973"
+  },
+  {
+    "precot": "418",
+    "jayam": "975"
+  },
+  {
+    "precot": "477",
+    "jayam": "977"
+  },
+  {
+    "precot": "443",
+    "jayam": "979"
+  },
+  {
+    "precot": "479",
+    "jayam": "981"
+  },
+  {
+    "precot": "460",
+    "jayam": "983"
+  },
+  {
+    "precot": "476",
+    "jayam": "985"
+  },
+  {
+    "precot": "432",
+    "jayam": "987"
+  },
+  {
+    "precot": "434",
+    "jayam": "989"
+  },
+  {
+    "precot": "467",
+    "jayam": "991"
+  },
+  {
+    "precot": null,
+    "jayam": "993"
+  },
+  {
+    "precot": "436",
+    "jayam": "995"
+  },
+  {
+    "precot": "985",
+    "jayam": "997"
+  },
+  {
+    "precot": "999",
+    "jayam": "999"
+  },
+  {
+    "precot": "417",
+    "jayam": "1001"
+  },
+  {
+    "precot": null,
+    "jayam": "1003"
+  },
+  {
+    "precot": null,
+    "jayam": "1005"
+  },
+  {
+    "precot": null,
+    "jayam": "1007"
+  },
+  {
+    "precot": "445",
+    "jayam": "1009"
+  },
+  {
+    "precot": "111",
+    "jayam": "1011"
+  },
+  {
+    "precot": "209",
+    "jayam": "1013"
+  },
+  {
+    "precot": "423",
+    "jayam": "1015"
+  },
+  {
+    "precot": "305",
+    "jayam": "1017"
+  },
+  {
+    "precot": "426",
+    "jayam": "1019"
+  },
+  {
+    "precot": "438",
+    "jayam": "1021"
+  },
+  {
+    "precot": "439",
+    "jayam": "1023"
+  },
+  {
+    "precot": "489",
+    "jayam": "1025"
+  },
+  {
+    "precot": "268",
+    "jayam": "1027"
+  },
+  {
+    "precot": null,
+    "jayam": "1029"
+  },
+  {
+    "precot": "235",
+    "jayam": "1031"
+  },
+  {
+    "precot": "404",
+    "jayam": "1033"
+  },
+  {
+    "precot": "779",
+    "jayam": "1035"
+  },
+  {
+    "precot": "278",
+    "jayam": "1037"
+  },
+  {
+    "precot": "180",
+    "jayam": "1039"
+  },
+  {
+    "precot": null,
+    "jayam": "1041"
+  },
+  {
+    "precot": "756",
+    "jayam": "1043"
+  },
+  {
+    "precot": "367",
+    "jayam": "1045"
+  },
+  {
+    "precot": "545",
+    "jayam": "1047"
+  },
+  {
+    "precot": "541",
+    "jayam": "1049"
+  },
+  {
+    "precot": "446",
+    "jayam": "1051"
+  },
+  {
+    "precot": "068",
+    "jayam": "1053"
+  },
+  {
+    "precot": null,
+    "jayam": "1055"
+  },
+  {
+    "precot": null,
+    "jayam": "1057"
+  },
+  {
+    "precot": null,
+    "jayam": "1059"
+  },
+  {
+    "precot": null,
+    "jayam": "1061"
+  },
+  {
+    "precot": null,
+    "jayam": "1063"
+  },
+  {
+    "precot": null,
+    "jayam": "1065"
+  },
+  {
+    "precot": null,
+    "jayam": "1067"
+  },
+  {
+    "precot": "567",
+    "jayam": "1069"
+  },
+  {
+    "precot": "593",
+    "jayam": "1071"
+  },
+  {
+    "precot": null,
+    "jayam": "1073"
+  },
+  {
+    "precot": "319",
+    "jayam": "1075"
+  },
+  {
+    "precot": "759",
+    "jayam": "1077"
+  },
+  {
+    "precot": "693",
+    "jayam": "1079"
+  },
+  {
+    "precot": null,
+    "jayam": "1081"
+  },
+  {
+    "precot": "788",
+    "jayam": "1083"
+  },
+  {
+    "precot": "778",
+    "jayam": "1085"
+  },
+  {
+    "precot": "724",
+    "jayam": "1087"
+  },
+  {
+    "precot": "370",
+    "jayam": "1089"
+  },
+  {
+    "precot": "751",
+    "jayam": "1091"
+  },
+  {
+    "precot": "764",
+    "jayam": "1093"
+  },
+  {
+    "precot": "734",
+    "jayam": "1095"
+  },
+  {
+    "precot": "508",
+    "jayam": "1097"
+  },
+  {
+    "precot": "741",
+    "jayam": "1099"
+  },
+  {
+    "precot": "369",
+    "jayam": "1101"
+  },
+  {
+    "precot": "787",
+    "jayam": "1103"
+  },
+  {
+    "precot": "566",
+    "jayam": "1105"
+  },
+  {
+    "precot": "730",
+    "jayam": "1107"
+  },
+  {
+    "precot": "349",
+    "jayam": "1109"
+  },
+  {
+    "precot": "358",
+    "jayam": "1111"
+  },
+  {
+    "precot": "812",
+    "jayam": "1113"
+  },
+  {
+    "precot": "540",
+    "jayam": "1115"
+  },
+  {
+    "precot": null,
+    "jayam": "1117"
+  },
+  {
+    "precot": "742",
+    "jayam": "1119"
+  },
+  {
+    "precot": "074",
+    "jayam": "1121"
+  },
+  {
+    "precot": null,
+    "jayam": "1123"
+  },
+  {
+    "precot": null,
+    "jayam": "1125"
+  },
+  {
+    "precot": "2212",
+    "jayam": "1127"
+  },
+  {
+    "precot": null,
+    "jayam": "1129"
+  },
+  {
+    "precot": null,
+    "jayam": "1131"
+  },
+  {
+    "precot": "199",
+    "jayam": "1133"
+  },
+  {
+    "precot": null,
+    "jayam": "1135"
+  },
+  {
+    "precot": null,
+    "jayam": "1137"
+  },
+  {
+    "precot": null,
+    "jayam": "1139"
+  },
+  {
+    "precot": null,
+    "jayam": "1141"
+  },
+  {
+    "precot": "690",
+    "jayam": "1143"
+  },
+  {
+    "precot": null,
+    "jayam": "1145"
+  },
+  {
+    "precot": "033",
+    "jayam": "1147"
+  },
+  {
+    "precot": "036",
+    "jayam": "1149"
+  },
+  {
+    "precot": "672",
+    "jayam": "1151"
+  },
+  {
+    "precot": null,
+    "jayam": "1153"
+  },
+  {
+    "precot": "571",
+    "jayam": "1155"
+  },
+  {
+    "precot": null,
+    "jayam": "1157"
+  },
+  {
+    "precot": "555",
+    "jayam": "1159"
+  },
+  {
+    "precot": "362",
+    "jayam": "1161"
+  },
+  {
+    "precot": null,
+    "jayam": "1163"
+  },
+  {
+    "precot": null,
+    "jayam": "1165"
+  },
+  {
+    "precot": "252",
+    "jayam": "1167"
+  },
+  {
+    "precot": null,
+    "jayam": "1169"
+  },
+  {
+    "precot": null,
+    "jayam": "1171"
+  },
+  {
+    "precot": "350",
+    "jayam": "1173"
+  },
+  {
+    "precot": "475",
+    "jayam": "1175"
+  },
+  {
+    "precot": null,
+    "jayam": "1177"
+  },
+  {
+    "precot": null,
+    "jayam": "1179"
+  },
+  {
+    "precot": "181",
+    "jayam": "1181"
+  },
+  {
+    "precot": "517",
+    "jayam": "1183"
+  },
+  {
+    "precot": null,
+    "jayam": "1185"
+  },
+  {
+    "precot": "372",
+    "jayam": "1187"
+  },
+  {
+    "precot": "326",
+    "jayam": "1189"
+  },
+  {
+    "precot": "328",
+    "jayam": "1191"
+  },
+  {
+    "precot": null,
+    "jayam": "1193"
+  },
+  {
+    "precot": null,
+    "jayam": "1195"
+  },
+  {
+    "precot": null,
+    "jayam": "1197"
+  },
+  {
+    "precot": null,
+    "jayam": "1199"
+  },
+  {
+    "precot": null,
+    "jayam": "1201"
+  },
+  {
+    "precot": null,
+    "jayam": "1203"
+  },
+  {
+    "precot": null,
+    "jayam": "1205"
+  },
+  {
+    "precot": "482",
+    "jayam": "1207"
+  },
+  {
+    "precot": null,
+    "jayam": "1209"
+  },
+  {
+    "precot": null,
+    "jayam": "1211"
+  },
+  {
+    "precot": null,
+    "jayam": "1213"
+  },
+  {
+    "precot": null,
+    "jayam": "1215"
+  },
+  {
+    "precot": "343",
+    "jayam": "1217"
+  },
+  {
+    "precot": "187",
+    "jayam": "1219"
+  },
+  {
+    "precot": null,
+    "jayam": "1221"
+  },
+  {
+    "precot": "356",
+    "jayam": "1223"
+  },
+  {
+    "precot": null,
+    "jayam": "1225"
+  },
+  {
+    "precot": null,
+    "jayam": "1227"
+  },
+  {
+    "precot": "714",
+    "jayam": "1229"
+  },
+  {
+    "precot": null,
+    "jayam": "1231"
+  },
+  {
+    "precot": null,
+    "jayam": "1233"
+  },
+  {
+    "precot": null,
+    "jayam": "1235"
+  },
+  {
+    "precot": null,
+    "jayam": "1237"
+  },
+  {
+    "precot": "075",
+    "jayam": "1239"
+  },
+  {
+    "precot": "088",
+    "jayam": "1241"
+  },
+  {
+    "precot": "092",
+    "jayam": "1243"
+  },
+  {
+    "precot": "083",
+    "jayam": "1245"
+  },
+  {
+    "precot": "322",
+    "jayam": "1247"
+  },
+  {
+    "precot": null,
+    "jayam": "1249"
+  },
+  {
+    "precot": "279",
+    "jayam": "1251"
+  },
+  {
+    "precot": null,
+    "jayam": "1253"
+  },
+  {
+    "precot": null,
+    "jayam": "1255"
+  },
+  {
+    "precot": null,
+    "jayam": "1257"
+  },
+  {
+    "precot": null,
+    "jayam": "1259"
+  },
+  {
+    "precot": null,
+    "jayam": "1261"
+  },
+  {
+    "precot": "592",
+    "jayam": "1263"
+  },
+  {
+    "precot": "156",
+    "jayam": "1265"
+  },
+  {
+    "precot": "078",
+    "jayam": "1267"
+  },
+  {
+    "precot": "052",
+    "jayam": "1269"
+  },
+  {
+    "precot": "673",
+    "jayam": "1271"
+  },
+  {
+    "precot": "066",
+    "jayam": "1273"
+  },
+  {
+    "precot": "634",
+    "jayam": "1275"
+  },
+  {
+    "precot": "179",
+    "jayam": "1277"
+  },
+  {
+    "precot": "569",
+    "jayam": "1279"
+  },
+  {
+    "precot": null,
+    "jayam": "1281"
+  },
+  {
+    "precot": null,
+    "jayam": "1283"
+  },
+  {
+    "precot": "494",
+    "jayam": "1285"
+  },
+  {
+    "precot": null,
+    "jayam": "1287"
+  },
+  {
+    "precot": null,
+    "jayam": "1289"
+  },
+  {
+    "precot": "091",
+    "jayam": "1291"
+  },
+  {
+    "precot": "084",
+    "jayam": "1293"
+  },
+  {
+    "precot": null,
+    "jayam": "1295"
+  },
+  {
+    "precot": null,
+    "jayam": "1297"
+  },
+  {
+    "precot": "338",
+    "jayam": "1299"
+  },
+  {
+    "precot": null,
+    "jayam": "1301"
+  },
+  {
+    "precot": null,
+    "jayam": "1303"
+  },
+  {
+    "precot": null,
+    "jayam": "1305"
+  },
+  {
+    "precot": null,
+    "jayam": "1307"
+  },
+  {
+    "precot": null,
+    "jayam": "1309"
+  },
+  {
+    "precot": null,
+    "jayam": "1311"
+  },
+  {
+    "precot": "293",
+    "jayam": "1313"
+  },
+  {
+    "precot": null,
+    "jayam": "1315"
+  },
+  {
+    "precot": "817",
+    "jayam": "1317"
+  },
+  {
+    "precot": "337",
+    "jayam": "1319"
+  },
+  {
+    "precot": "360",
+    "jayam": "1321"
+  },
+  {
+    "precot": "686",
+    "jayam": "1323"
+  },
+  {
+    "precot": "082",
+    "jayam": "1325"
+  },
+  {
+    "precot": "347",
+    "jayam": "1327"
+  },
+  {
+    "precot": null,
+    "jayam": "1329"
+  },
+  {
+    "precot": "090",
+    "jayam": "1331"
+  },
+  {
+    "precot": null,
+    "jayam": "1333"
+  },
+  {
+    "precot": null,
+    "jayam": "1335"
+  },
+  {
+    "precot": null,
+    "jayam": "1337"
+  },
+  {
+    "precot": "259",
+    "jayam": "1339"
+  },
+  {
+    "precot": "026",
+    "jayam": "1341"
+  },
+  {
+    "precot": "354",
+    "jayam": "1343"
+  },
+  {
+    "precot": "355",
+    "jayam": "1345"
+  },
+  {
+    "precot": null,
+    "jayam": "1347"
+  },
+  {
+    "precot": null,
+    "jayam": "1349"
+  },
+  {
+    "precot": null,
+    "jayam": "1351"
+  },
+  {
+    "precot": "069",
+    "jayam": "1353"
+  },
+  {
+    "precot": "754",
+    "jayam": "1355"
+  },
+  {
+    "precot": "752",
+    "jayam": "1357"
+  },
+  {
+    "precot": null,
+    "jayam": "1359"
+  },
+  {
+    "precot": null,
+    "jayam": "1361"
+  },
+  {
+    "precot": null,
+    "jayam": "1363"
+  },
+  {
+    "precot": null,
+    "jayam": "1365"
+  },
+  {
+    "precot": null,
+    "jayam": "1367"
+  },
+  {
+    "precot": null,
+    "jayam": "1369"
+  },
+  {
+    "precot": null,
+    "jayam": "1371"
+  },
+  {
+    "precot": null,
+    "jayam": "1373"
+  },
+  {
+    "precot": null,
+    "jayam": "1375"
+  },
+  {
+    "precot": null,
+    "jayam": "1377"
+  },
+  {
+    "precot": null,
+    "jayam": "1379"
+  },
+  {
+    "precot": null,
+    "jayam": "1381"
+  },
+  {
+    "precot": null,
+    "jayam": "1383"
+  },
+  {
+    "precot": "710",
+    "jayam": "1385"
+  },
+  {
+    "precot": null,
+    "jayam": "1387"
+  },
+  {
+    "precot": "197",
+    "jayam": "1389"
+  },
+  {
+    "precot": null,
+    "jayam": "1391"
+  },
+  {
+    "precot": null,
+    "jayam": "1393"
+  },
+  {
+    "precot": null,
+    "jayam": "1395"
+  },
+  {
+    "precot": "297",
+    "jayam": "1397"
+  },
+  {
+    "precot": null,
+    "jayam": "1399"
+  }
+]
