@@ -1,4 +1,6 @@
 # JE Shade Finder
+---
+[🔗 Live Demo](https://paulsamuel-w-e.github.io/JE-Shade-finder/)
 
 A lightweight Progressive Web App (PWA) designed to simplify shade number lookups between **Jayam Enterprise internal shade codes** and **Precot shade codes** used when sourcing yarns.
 
