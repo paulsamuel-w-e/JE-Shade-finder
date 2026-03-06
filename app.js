@@ -23,6 +23,20 @@ document.getElementById("number").value = ""
 searchShade()
 })
 
+document.getElementById("number")
+.addEventListener("keydown", function(e){
+    
+    if(e.key === "Enter"){
+    
+        searchShade()
+        
+        this.blur()   // closes keyboard on mobile
+    
+    }
+
+})
+
+
 function searchShade(){
 
     let type = document.getElementById("type").value
@@ -122,5 +136,6 @@ if ("serviceWorker" in navigator) {
     navigator.serviceWorker
     .register("service-worker.js")
     .then(() => console.log("Service Worker Registered"))
+
 
 }
